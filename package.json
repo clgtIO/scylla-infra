@@ -1,0 +1,11 @@
+{
+  "name": "scylla-infra",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/clgtIO/scylla-infra.git",
+  "author": "An <me@clgt.io>",
+  "license": "MIT",
+  "dependencies": {
+    "pg": "^8.7.1"
+  }
+}

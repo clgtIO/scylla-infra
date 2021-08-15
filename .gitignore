@@ -1,0 +1,6 @@
+.idea
+cockroach-data
+node_modules
+.DS_Store
+minio/data
+cassandra/data
